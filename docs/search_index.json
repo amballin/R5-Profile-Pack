@@ -429,7 +429,7 @@
     "source": "Appendices/Lens Capabilities.md",
     "html": "appendices/Lens Capabilities.html",
     "anchor": "index",
-    "text": "1. Match by Subject\n2. Canon EF 100-400mm f/4.5-5.6L IS II USM\n3. Canon EF 100mm f/2.8L Macro IS USM\n4. Canon MP-E 65mm f/2.8 1-5x Macro Photo\n5. Canon EF 50mm f/1.4 USM\n6. Canon EF-S 10-18mm f/4.5-5.6 IS STM\n7. Canon Extender EF 1.4x\n8. EF-EOS R Control Ring Adapter\n9. Crop Mode and RF-S/EF-S Lenses\n10. Canon RF 24-240mm F4-6.3 IS USM\n11. Common Mistakes\n12. Cross References"
+    "text": "1. Match by Subject\n2. Canon EF 100-400mm f/4.5-5.6L IS II USM\n3. Canon RF 100-400mm F5.6-8 IS USM\n4. Canon RF 200-800mm F6.3-9 IS USM\n5. Canon EF 28-105mm f/3.5-4.5 II USM\n6. Canon EF 100mm f/2.8L Macro IS USM\n7. Canon MP-E 65mm f/2.8 1-5x Macro Photo\n8. Canon EF 50mm f/1.4 USM\n9. Canon EF-S 10-18mm f/4.5-5.6 IS STM\n10. Canon Extender EF 1.4x\n11. EF-EOS R Control Ring Adapter\n12. Crop Mode and RF-S/EF-S Lenses\n13. Canon RF 24-240mm F4-6.3 IS USM\n14. Common Mistakes\n15. Cross References"
   },
   {
     "appendix_id": "lens_settings",
@@ -484,6 +484,60 @@
     "html": "appendices/Lens Capabilities.html",
     "anchor": "extender-and-adapter-notes",
     "text": "The EF 100-400L IS II is the main lens in this kit where the 1.4x extender makes sense. Put the EF 1.4x extender between the EF lens and the EF-EOS R adapter, then mount the adapter to the R5.\nWith a 1.4x extender, this lens becomes 140-560mm f/6.3-8. Expect more reach, less light, slightly slower AF, and more need for steady support. It is best for perched birds, distant wildlife, moon/detail shots, and bright outdoor subjects. Avoid it for low light, fast erratic action, or heat shimmer unless reach matters more than speed.\nThe EF-EOS R control ring adapter does not change focal length or aperture. Use the control ring for a high-value field setting such as exposure compensation, ISO, or aperture, depending on how you like to shoot."
+  },
+  {
+    "appendix_id": "lens_settings",
+    "title": "Lens Capabilities",
+    "section": "Canon RF 100-400mm F5.6-8 IS USM",
+    "source": "Appendices/Lens Capabilities.md",
+    "html": "appendices/Lens Capabilities.html",
+    "anchor": "canon-rf-100-400mm-f5-6-8-is-usm",
+    "text": "This compact RF telephoto zoom is a catalog option for wildlife, birds, field sports, travel, and close details. It is not part of the embedded owner's selected equipment list; a private profile pack can select the same canonical lens record without copying its capabilities."
+  },
+  {
+    "appendix_id": "lens_settings",
+    "title": "Lens Capabilities",
+    "section": "Image Stabilization Controls \u2014 Canon RF 100-400mm F5.6-8 IS USM",
+    "source": "Appendices/Lens Capabilities.md",
+    "html": "appendices/Lens Capabilities.html",
+    "anchor": "image-stabilization-controls-canon-rf-100-400mm-f5-6-8-is-usm",
+    "text": "  Control   Documented behavior  \n  ---   ---  \n  **Optical IS**   Yes  \n  **IS switch**   On / Off  \n  **IS mode switch**   Not present  \n  **Control**   Lens Image Stabilizer On/Off switch; stabilization behavior is selected automatically  \n  **Camera interaction**   Set the lens Image Stabilizer switch On; lens optical IS and EOS R5 in-body stabilization provide coordinated stabilization.  \n  **Canon-specific note**   The lens automatically detects panning and changes stabilization behavior; it has no physical Mode 1 / 2 / 3 switch.  \n  **Canon-specific note**   Maximum magnification is 0.41\u00d7 at 400mm; this is a strong close-up capability, not 1\u00d7 macro reproduction.  \n  **Canon-specific note**   Canon RF1.4\u00d7 and RF2\u00d7 extenders are compatible at all zoom settings.  \n  **Canon sources**   Canon RF100-400mm F5.6-8 IS USM Specifications; Canon EOS R5 Advanced User Guide \u2014 Image Stabilizer (IS Mode)  \nUse the physical Image Stabilizer On/Off switch. The lens has no Mode 1 / 2 / 3 selector: it detects panning automatically and can provide coordinated stabilization with the EOS R5. At 400mm it reaches 0.41\u00d7 maximum magnification, useful for close-ups but short of true 1\u00d7 macro reproduction. Canon RF1.4\u00d7 and RF2\u00d7 extenders are compatible at all zoom settings.\nCanon reference: RF 100-400mm specifications."
+  },
+  {
+    "appendix_id": "lens_settings",
+    "title": "Lens Capabilities",
+    "section": "Canon RF 200-800mm F6.3-9 IS USM",
+    "source": "Appendices/Lens Capabilities.md",
+    "html": "appendices/Lens Capabilities.html",
+    "anchor": "canon-rf-200-800mm-f6-3-9-is-usm",
+    "text": "This RF super-telephoto zoom is a catalog option for distant birds, wildlife, and outdoor sports. It is not part of the embedded owner's selected equipment list."
+  },
+  {
+    "appendix_id": "lens_settings",
+    "title": "Lens Capabilities",
+    "section": "Image Stabilization Controls \u2014 Canon RF 200-800mm F6.3-9 IS USM",
+    "source": "Appendices/Lens Capabilities.md",
+    "html": "appendices/Lens Capabilities.html",
+    "anchor": "image-stabilization-controls-canon-rf-200-800mm-f6-3-9-is-usm",
+    "text": "  Control   Documented behavior  \n  ---   ---  \n  **Optical IS**   Yes  \n  **IS switch**   On / Off  \n  **IS mode switch**   Not present  \n  **Control**   Lens Image Stabilizer On/Off switch; stabilization behavior is selected automatically  \n  **Camera interaction**   Set the lens Image Stabilizer switch On; lens optical IS and EOS R5 in-body stabilization work with coordinated control.  \n  **Canon-specific note**   The lens automatically provides stabilization appropriate for still subjects and panning; it has no physical Mode 1 / 2 / 3 switch.  \n  **Canon-specific note**   Canon notes that tripod use may call for switching stabilization Off depending on the tripod, location, camera settings, and shutter speed.  \n  **Canon-specific note**   Canon RF1.4\u00d7 and RF2\u00d7 extenders are compatible, producing 280\u20131120mm f/9\u201313 and 400\u20131600mm f/13\u201318 ranges respectively.  \n  **Canon sources**   Canon RF200-800mm F6.3-9 IS USM Instructions; Canon RF200-800mm F6.3-9 IS USM Support and Specifications  \nUse the physical Image Stabilizer On/Off switch. The lens has no Mode 1 / 2 / 3 selector and automatically adapts stabilization for still subjects and panning while supporting coordinated control with the EOS R5. Canon notes that tripod conditions and camera settings may make switching stabilization off preferable. RF1.4\u00d7 and RF2\u00d7 extenders expand the lens to 280\u20131120mm and 400\u20131600mm respectively, with corresponding aperture and autofocus tradeoffs.\nCanon reference: RF 200-800mm instructions."
+  },
+  {
+    "appendix_id": "lens_settings",
+    "title": "Lens Capabilities",
+    "section": "Canon EF 28-105mm f/3.5-4.5 II USM",
+    "source": "Appendices/Lens Capabilities.md",
+    "html": "appendices/Lens Capabilities.html",
+    "anchor": "canon-ef-28-105mm-f-3-5-4-5-ii-usm",
+    "text": "This adapted EF standard zoom is a catalog option for general-purpose and close-detail photography. It is not part of the embedded owner's selected equipment list."
+  },
+  {
+    "appendix_id": "lens_settings",
+    "title": "Lens Capabilities",
+    "section": "Image Stabilization Controls \u2014 Canon EF 28-105mm f/3.5-4.5 II USM",
+    "source": "Appendices/Lens Capabilities.md",
+    "html": "appendices/Lens Capabilities.html",
+    "anchor": "image-stabilization-controls-canon-ef-28-105mm-f-3-5-4-5-ii-usm",
+    "text": "  Control   Documented behavior  \n  ---   ---  \n  **Optical IS**   No  \n  **IS switch**   Not present  \n  **IS mode switch**   Not present  \n  **Control**   Camera menu for normal in-body stabilization  \n  **Camera interaction**   Use the Control Ring Mount Adapter EF-EOS R. Because the lens has no optical IS switch, use MENU \u2192 Shooting menu \u2192 IS (Image Stabilizer) mode when the option is available.  \n  **Canon-specific note**   The lens focuses to 0.5 m throughout the zoom range and reaches 0.19\u00d7 maximum magnification; its close-focus or macro marking does not indicate a true 1\u00d7 macro lens.  \n  **Canon-specific note**   Ring USM provides autofocus and full-time manual-focus adjustment.  \n  **Canon sources**   Canon Camera Museum \u2014 EF28-105mm f/3.5-4.5 II USM; Canon EF 28-105mm f/3.5-4.5 II USM Support and Specifications; Canon EOS R5 Advanced User Guide \u2014 Image Stabilizer (IS Mode)  \nUse the Control Ring Mount Adapter EF-EOS R. The lens has no optical IS, so use the EOS R5's **IS (Image Stabilizer) mode** when available. It focuses to 0.5 m throughout the zoom range and reaches 0.19\u00d7 maximum magnification. Although some copies or references use a close-focus or macro marking, this is not a true 1\u00d7 macro lens. Ring USM supplies autofocus and full-time manual-focus adjustment.\nCanon reference: Canon Camera Museum \u2014 EF 28-105mm II."
   },
   {
     "appendix_id": "lens_settings",
