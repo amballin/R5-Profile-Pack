@@ -1,5 +1,5 @@
 version: 1
-updated: '2026-09-14T05:41:55.754555-04:00'
+updated: '2026-09-14T07:37:14.752538-04:00'
 tests:
   SETUP-01:
     status: Verified
@@ -100,8 +100,7 @@ tests:
     test_date: 46257
     session_id: 3
     evidence_files: []
-    observation: C1 Wildlife camera-body targets were configured and checked; the attached lens exposed only IS On/Off, so
-      exact Mode 1 could not be verified.
+    observation: C1 Wildlife camera-body targets were configured and checked; the attached lens exposed only IS On/Off, so exact Mode 1 could not be verified.
     next_action: Verify C1 Mode 1 with a compatible lens; retain the confirmed camera-body settings.
     evidence_class: Unresolved
     updated_in_project: 'No'
@@ -129,8 +128,7 @@ tests:
     test_date: 46257
     session_id: 3
     evidence_files: []
-    observation: C2 Birds in Flight camera-body targets were configured and checked; the attached lens exposed only IS On/Off,
-      so exact Mode 3 could not be verified.
+    observation: C2 Birds in Flight camera-body targets were configured and checked; the attached lens exposed only IS On/Off, so exact Mode 3 could not be verified.
     next_action: Verify C2 Mode 3 with a compatible lens; retain the confirmed camera-body settings.
     evidence_class: Unresolved
     updated_in_project: 'No'
@@ -149,8 +147,7 @@ tests:
     test_date: 46257
     session_id: 3
     evidence_files: []
-    observation: Recalled C2 camera-body targets passed Camera Lab and manual checks; exact lens Mode 3 remained unavailable.
-      C1 remained unchanged.
+    observation: Recalled C2 camera-body targets passed Camera Lab and manual checks; exact lens Mode 3 remained unavailable. C1 remained unchanged.
     next_action: Complete the C2 read-back with a lens that exposes Mode 3.
     evidence_class: Unresolved
     updated_in_project: 'No'
@@ -159,8 +156,7 @@ tests:
     test_date: 46257
     session_id: 3
     evidence_files: []
-    observation: C3 Landscape camera-body targets were configured in Av and checked; the attached lens exposed only IS On/Off,
-      so exact Mode 1 could not be verified.
+    observation: C3 Landscape camera-body targets were configured in Av and checked; the attached lens exposed only IS On/Off, so exact Mode 1 could not be verified.
     next_action: Verify C3 Mode 1 with a compatible lens; retain the confirmed camera-body settings.
     evidence_class: Unresolved
     updated_in_project: 'No'
@@ -179,8 +175,7 @@ tests:
     test_date: 46257
     session_id: 3
     evidence_files: []
-    observation: Recalled C3 camera-body targets passed Camera Lab and manual checks, including Av; exact lens Mode 1 remained
-      unavailable. C1 and C2 remained unchanged.
+    observation: Recalled C3 camera-body targets passed Camera Lab and manual checks, including Av; exact lens Mode 1 remained unavailable. C1 and C2 remained unchanged.
     next_action: Complete the C3 read-back with a lens that exposes Mode 1.
     evidence_class: Unresolved
     updated_in_project: 'No'
@@ -198,8 +193,7 @@ tests:
     test_date: 46257
     session_id: 3
     evidence_files: []
-    observation: C1-C3 camera-body read-backs and Auto update checks passed; exact lens Mode 1/3 values were not exposed by
-      the attached lens.
+    observation: C1-C3 camera-body read-backs and Auto update checks passed; exact lens Mode 1/3 values were not exposed by the attached lens.
     next_action: Repeat only the equipment-dependent lens stabilization checks with a compatible lens.
     evidence_class: Unresolved
     updated_in_project: 'No'
@@ -223,7 +217,7 @@ registration:
     c2_notes: Birds in Flight confirmed in M.
     c3_configured: Pass
     c3_read_back: Pass
-    c3_notes: Landscape confirmed in Av.
+    c3_notes: Landscape confirmed in Av. Camera Lab sdk_verified_read_only · Landscape · session 6a0b7ba9 · 2026-09-14T11:36:34+00:00.
     verified_against: sha256:16380d447ae550758ff49c344119374224a6b1c009504e23f6f4f93c11c00533
   Metering:
     c1_configured: Pass
@@ -234,7 +228,7 @@ registration:
     c2_notes: Confirmed in session 3.
     c3_configured: Pass
     c3_read_back: Pass
-    c3_notes: Confirmed in session 3.
+    c3_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Landscape · session 6a0b7ba9 · 2026-09-14T11:36:34+00:00.
     verified_against: sha256:bc76af3dd5f76e718fe876deafcfbc0fd4a3f64d2a2eb64d2253751bd18f4eae
   Exposure Compensation:
     c1_configured: Pass
@@ -245,7 +239,7 @@ registration:
     c2_notes: Confirmed in session 3.
     c3_configured: Pass
     c3_read_back: Pass
-    c3_notes: Confirmed in session 3.
+    c3_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Landscape · session 6a0b7ba9 · 2026-09-14T11:36:34+00:00.
     verified_against: sha256:88e1331bb1792dc8c402253666af51d91b4ff14bdf848d8f5715f7c5735374ee
   Shutter Speed:
     c1_configured: Pass
@@ -256,7 +250,7 @@ registration:
     c2_notes: Confirmed in session 3.
     c3_configured: Pass
     c3_read_back: Pass
-    c3_notes: Confirmed in session 3.
+    c3_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Landscape · session 6a0b7ba9 · 2026-09-14T11:36:34+00:00.
     verified_against: sha256:50a59b23cd80339f63a7068a9f9b6618357bcc05eb6f986cc5c7a707e50c0a74
   Aperture:
     c1_configured: Pass
@@ -267,7 +261,7 @@ registration:
     c2_notes: Confirmed in session 3.
     c3_configured: Pass
     c3_read_back: Pass
-    c3_notes: Confirmed in session 3.
+    c3_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Landscape · session 6a0b7ba9 · 2026-09-14T11:36:34+00:00.
     verified_against: sha256:74b8c602aefe9109b324a5d3d0f5af54cafeaceae6f80e96effd7b7e7b7512a0
   ISO:
     c1_configured: Pass
@@ -278,7 +272,7 @@ registration:
     c2_notes: Confirmed in session 3.
     c3_configured: Pass
     c3_read_back: Pass
-    c3_notes: Confirmed in session 3.
+    c3_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Landscape · session 6a0b7ba9 · 2026-09-14T11:36:34+00:00.
     verified_against: sha256:3c57560fdad255af8dddd4afe759bf3a638ced62cd0b435fbcb39f539ed4d5cd
   Auto ISO Maximum:
     c1_configured: Pass
@@ -289,7 +283,7 @@ registration:
     c2_notes: Confirmed in session 3.
     c3_configured: Pass
     c3_read_back: Pass
-    c3_notes: Confirmed in session 3.
+    c3_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Landscape · session 6a0b7ba9 · 2026-09-14T11:36:34+00:00.
     verified_against: sha256:215087f96f2c5d379e4931bbcffe7ea4f1ebe59cc0229f5dae23f52e08edbba5
   AF Operation:
     c1_configured: Pass
@@ -300,7 +294,7 @@ registration:
     c2_notes: Confirmed in session 3.
     c3_configured: Pass
     c3_read_back: Pass
-    c3_notes: Confirmed in session 3.
+    c3_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Landscape · session 6a0b7ba9 · 2026-09-14T11:36:34+00:00.
     verified_against: sha256:e52a8877636b9e990324e5e59a10b6b8a0723c7699f752ac41a4e39a25ed8c94
   Servo AF Case:
     c1_configured: Pass
@@ -311,7 +305,7 @@ registration:
     c2_notes: Confirmed in session 3.
     c3_configured: Pass
     c3_read_back: Pass
-    c3_notes: Confirmed in session 3.
+    c3_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Landscape · session 6a0b7ba9 · 2026-09-14T11:36:34+00:00.
     verified_against: sha256:c9f1ca7567fd410ce854474a770e020fea6e9904b6872801ebc1b2f20b392fbf
   Tracking Sensitivity:
     c1_configured: Pass
@@ -322,7 +316,7 @@ registration:
     c2_notes: Confirmed in session 3.
     c3_configured: Pass
     c3_read_back: Pass
-    c3_notes: Confirmed in session 3.
+    c3_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Landscape · session 6a0b7ba9 · 2026-09-14T11:36:34+00:00.
     verified_against: sha256:dfe83819227cc879db8a3ff1c5b898a2d1c1b0f74d6b3364ad9a92ed7b018424
   Accel./Decel. Tracking:
     c1_configured: Pass
@@ -333,7 +327,7 @@ registration:
     c2_notes: Confirmed in session 3.
     c3_configured: Pass
     c3_read_back: Pass
-    c3_notes: Confirmed in session 3.
+    c3_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Landscape · session 6a0b7ba9 · 2026-09-14T11:36:34+00:00.
     verified_against: sha256:e11fda77b702b46abfbda7bbf4de92c162668fd479106b46da999dcd11ba28cf
   Switching Tracked Subjects:
     c1_configured: Pass
@@ -344,7 +338,7 @@ registration:
     c2_notes: Confirmed in session 3.
     c3_configured: Pass
     c3_read_back: Pass
-    c3_notes: Confirmed in session 3.
+    c3_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Landscape · session 6a0b7ba9 · 2026-09-14T11:36:34+00:00.
     verified_against: sha256:1866e2e49cd4159a2f76e301df8394efb14ebc00f49606d84fedb5501875eeb7
   AF Method:
     c1_configured: Pass
@@ -355,7 +349,7 @@ registration:
     c2_notes: Confirmed in session 3.
     c3_configured: Pass
     c3_read_back: Pass
-    c3_notes: Confirmed in session 3.
+    c3_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Landscape · session 6a0b7ba9 · 2026-09-14T11:36:34+00:00.
     verified_against: sha256:ac30ce5e48a2e9e69db02806afb6a8c836dd8220dce399b57ed50b6ec3569d82
   Subject Detection:
     c1_configured: Pass
@@ -366,7 +360,7 @@ registration:
     c2_notes: Confirmed in session 3.
     c3_configured: Pass
     c3_read_back: Pass
-    c3_notes: Confirmed in session 3.
+    c3_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Landscape · session 6a0b7ba9 · 2026-09-14T11:36:34+00:00.
     verified_against: sha256:ca630f9c8761b1ba9bc261fc0264e1fdff6c6ebce7d3d60f68453c6e6c0fb66e
   Eye Detection:
     c1_configured: Pass
@@ -377,7 +371,7 @@ registration:
     c2_notes: Confirmed in session 3.
     c3_configured: Pass
     c3_read_back: Pass
-    c3_notes: Confirmed in session 3.
+    c3_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Landscape · session 6a0b7ba9 · 2026-09-14T11:36:34+00:00.
     verified_against: sha256:d4f49e58f189bc2a85058e8030bdba5867549892594d4961911a877fc7774cc1
   Drive Mode:
     c1_configured: Pass
@@ -388,7 +382,7 @@ registration:
     c2_notes: Confirmed in session 3.
     c3_configured: Pass
     c3_read_back: Pass
-    c3_notes: Confirmed in session 3.
+    c3_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Landscape · session 6a0b7ba9 · 2026-09-14T11:36:34+00:00.
     verified_against: sha256:a407ab25d86c6b32e4618dffadce1bc9f7375731cceb32a9b15154cb636bbc93
   High Speed Display:
     c1_configured: Pass
@@ -410,7 +404,7 @@ registration:
     c2_notes: Confirmed in session 3.
     c3_configured: Pass
     c3_read_back: Pass
-    c3_notes: Confirmed in session 3.
+    c3_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Landscape · session 6a0b7ba9 · 2026-09-14T11:36:34+00:00.
     verified_against: sha256:e0eb3a601149113b744968c8d35c10e22707716e94c780644837edcabff082bb
   Image Stabilizer Mode:
     c1_configured: Needs retest
@@ -431,7 +425,7 @@ registration:
     c2_notes: Confirmed in session 3.
     c3_configured: Pass
     c3_read_back: Pass
-    c3_notes: Confirmed in session 3.
+    c3_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Landscape · session 6a0b7ba9 · 2026-09-14T11:36:34+00:00.
     verified_against: sha256:f88432494f6ce6fd467acf866dcb7285209af0daa97f23211b4c2e9a2fca510a
   Focus Bracketing:
     c1_configured: Pass
@@ -442,19 +436,18 @@ registration:
     c2_notes: Confirmed in session 3.
     c3_configured: Pass
     c3_read_back: Pass
-    c3_notes: Confirmed in session 3.
+    c3_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Landscape · session 6a0b7ba9 · 2026-09-14T11:36:34+00:00.
     verified_against: sha256:faa653558ccc3ca42def02cffceb2449676221f3e2b701a95cb76c734a606a66
   Lens IS switch:
     c1_configured: Pass
     c1_read_back: Pass
-    c1_notes: Physical lens switch confirmed On. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b
-      · 2026-09-13T22:40:59+00:00.
+    c1_notes: Physical lens switch confirmed On. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
     c2_configured: Pass
     c2_read_back: Pass
     c2_notes: Physical lens switch confirmed On.
     c3_configured: Pass
     c3_read_back: Pass
-    c3_notes: Physical lens switch confirmed On.
+    c3_notes: Physical lens switch confirmed On. Camera Lab manual_user_confirmed_read_only · Landscape · session 6a0b7ba9 · 2026-09-14T11:36:34+00:00.
     verified_against: sha256:77c1f08d541f8a95c354155213e1184f193765664d2faca4e6245806067b6735
 sessions:
 - session_id: 3
@@ -466,8 +459,7 @@ sessions:
   flash_trigger: Not used
   starting_backup: BASE_CFG.CSD
   image_range: No images captured; read-only EDSDK scans and manual camera confirmation
-  outcome: C1-C3 camera-body targets registered and cross-checked; lens Mode 1/3 remains equipment-dependent; final backup
-    C123_CFG.CSD.
+  outcome: C1-C3 camera-body targets registered and cross-checked; lens Mode 1/3 remains equipment-dependent; final backup C123_CFG.CSD.
   next_session: Verify Mode 1/3 with a compatible lens and complete operational shooting tests.
   notes: Direct USB; EDSDK 13.20.20.0; Auto update disabled; C3 recalled as Av; Camera Lab performed no setting writes.
 retired_tests: {}
@@ -2128,8 +2120,7 @@ history:
     c1_notes: Physical lens switch confirmed On.
     c2_configured: Pass
     c2_read_back: Pass
-    c2_notes: Physical lens switch confirmed On. Camera Lab manual_user_confirmed_read_only · Birds in Flight · session 2d78a696
-      · 2026-09-13T22:42:50+00:00.
+    c2_notes: Physical lens switch confirmed On. Camera Lab manual_user_confirmed_read_only · Birds in Flight · session 2d78a696 · 2026-09-13T22:42:50+00:00.
     c3_configured: Pass
     c3_read_back: Pass
     c3_notes: Physical lens switch confirmed On.
@@ -2137,12 +2128,10 @@ history:
   current:
     c1_configured: Pass
     c1_read_back: Pass
-    c1_notes: Physical lens switch confirmed On. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b
-      · 2026-09-13T22:40:59+00:00.
+    c1_notes: Physical lens switch confirmed On. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
     c2_configured: Pass
     c2_read_back: Pass
-    c2_notes: Physical lens switch confirmed On. Camera Lab manual_user_confirmed_read_only · Birds in Flight · session 2d78a696
-      · 2026-09-13T22:42:50+00:00.
+    c2_notes: Physical lens switch confirmed On. Camera Lab manual_user_confirmed_read_only · Birds in Flight · session 2d78a696 · 2026-09-13T22:42:50+00:00.
     c3_configured: Pass
     c3_read_back: Pass
     c3_notes: Physical lens switch confirmed On.
@@ -2410,3 +2399,643 @@ history:
     path: autofocus.tracking_sensitivity
     target: '-1'
     completed_at: '2026-09-13T22:40:59+00:00'
+- timestamp: '2026-09-14T07:37:14.752538-04:00'
+  event: camera_lab_evidence_import
+  id: 6a0b7ba964b84f1bb3e1e58a7fd4bd35:C3:AF Method
+  previous:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:ac30ce5e48a2e9e69db02806afb6a8c836dd8220dce399b57ed50b6ec3569d82
+  current:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Landscape · session 6a0b7ba9 · 2026-09-14T11:36:34+00:00.
+    verified_against: sha256:ac30ce5e48a2e9e69db02806afb6a8c836dd8220dce399b57ed50b6ec3569d82
+  evidence:
+    method: sdk_verified_read_only
+    journal: 6a0b7ba964b84f1bb3e1e58a7fd4bd35.json
+    profile: Landscape
+    path: autofocus.method
+    target: 1-Point AF
+    completed_at: '2026-09-14T11:36:34+00:00'
+- timestamp: '2026-09-14T07:37:14.752538-04:00'
+  event: camera_lab_evidence_import
+  id: 6a0b7ba964b84f1bb3e1e58a7fd4bd35:C3:AF Operation
+  previous:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:e52a8877636b9e990324e5e59a10b6b8a0723c7699f752ac41a4e39a25ed8c94
+  current:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Landscape · session 6a0b7ba9 · 2026-09-14T11:36:34+00:00.
+    verified_against: sha256:e52a8877636b9e990324e5e59a10b6b8a0723c7699f752ac41a4e39a25ed8c94
+  evidence:
+    method: sdk_verified_read_only
+    journal: 6a0b7ba964b84f1bb3e1e58a7fd4bd35.json
+    profile: Landscape
+    path: autofocus.operation
+    target: One-Shot AF
+    completed_at: '2026-09-14T11:36:34+00:00'
+- timestamp: '2026-09-14T07:37:14.752538-04:00'
+  event: camera_lab_evidence_import
+  id: 6a0b7ba964b84f1bb3e1e58a7fd4bd35:C3:Accel./Decel. Tracking
+  previous:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:e11fda77b702b46abfbda7bbf4de92c162668fd479106b46da999dcd11ba28cf
+  current:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Landscape · session 6a0b7ba9 · 2026-09-14T11:36:34+00:00.
+    verified_against: sha256:e11fda77b702b46abfbda7bbf4de92c162668fd479106b46da999dcd11ba28cf
+  evidence:
+    method: manual_user_confirmed_read_only
+    journal: 6a0b7ba964b84f1bb3e1e58a7fd4bd35.json
+    profile: Landscape
+    path: autofocus.accel_decel_tracking
+    target: Auto
+    completed_at: '2026-09-14T11:36:34+00:00'
+- timestamp: '2026-09-14T07:37:14.752538-04:00'
+  event: camera_lab_evidence_import
+  id: 6a0b7ba964b84f1bb3e1e58a7fd4bd35:C3:Aperture
+  previous:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:74b8c602aefe9109b324a5d3d0f5af54cafeaceae6f80e96effd7b7e7b7512a0
+  current:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Landscape · session 6a0b7ba9 · 2026-09-14T11:36:34+00:00.
+    verified_against: sha256:74b8c602aefe9109b324a5d3d0f5af54cafeaceae6f80e96effd7b7e7b7512a0
+  evidence:
+    method: manual_user_confirmed_read_only
+    journal: 6a0b7ba964b84f1bb3e1e58a7fd4bd35.json
+    profile: Landscape
+    path: lens.aperture.target
+    target: f/8–f/11; bracket before f/16
+    completed_at: '2026-09-14T11:36:34+00:00'
+- timestamp: '2026-09-14T07:37:14.752538-04:00'
+  event: camera_lab_evidence_import
+  id: 6a0b7ba964b84f1bb3e1e58a7fd4bd35:C3:Auto ISO Maximum
+  previous:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:215087f96f2c5d379e4931bbcffe7ea4f1ebe59cc0229f5dae23f52e08edbba5
+  current:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Landscape · session 6a0b7ba9 · 2026-09-14T11:36:34+00:00.
+    verified_against: sha256:215087f96f2c5d379e4931bbcffe7ea4f1ebe59cc0229f5dae23f52e08edbba5
+  evidence:
+    method: manual_user_confirmed_read_only
+    journal: 6a0b7ba964b84f1bb3e1e58a7fd4bd35.json
+    profile: Landscape
+    path: exposure.auto_iso.maximum
+    target: '12800'
+    completed_at: '2026-09-14T11:36:34+00:00'
+- timestamp: '2026-09-14T07:37:14.752538-04:00'
+  event: camera_lab_evidence_import
+  id: 6a0b7ba964b84f1bb3e1e58a7fd4bd35:C3:Drive Mode
+  previous:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:a407ab25d86c6b32e4618dffadce1bc9f7375731cceb32a9b15154cb636bbc93
+  current:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Landscape · session 6a0b7ba9 · 2026-09-14T11:36:34+00:00.
+    verified_against: sha256:a407ab25d86c6b32e4618dffadce1bc9f7375731cceb32a9b15154cb636bbc93
+  evidence:
+    method: sdk_verified_read_only
+    journal: 6a0b7ba964b84f1bb3e1e58a7fd4bd35.json
+    profile: Landscape
+    path: drive.mode
+    target: Single Shot
+    completed_at: '2026-09-14T11:36:34+00:00'
+- timestamp: '2026-09-14T07:37:14.752538-04:00'
+  event: camera_lab_evidence_import
+  id: 6a0b7ba964b84f1bb3e1e58a7fd4bd35:C3:Exposure Compensation
+  previous:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:88e1331bb1792dc8c402253666af51d91b4ff14bdf848d8f5715f7c5735374ee
+  current:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Landscape · session 6a0b7ba9 · 2026-09-14T11:36:34+00:00.
+    verified_against: sha256:88e1331bb1792dc8c402253666af51d91b4ff14bdf848d8f5715f7c5735374ee
+  evidence:
+    method: sdk_verified_read_only
+    journal: 6a0b7ba964b84f1bb3e1e58a7fd4bd35.json
+    profile: Landscape
+    path: exposure.exposure_compensation
+    target: '0'
+    completed_at: '2026-09-14T11:36:34+00:00'
+- timestamp: '2026-09-14T07:37:14.752538-04:00'
+  event: camera_lab_evidence_import
+  id: 6a0b7ba964b84f1bb3e1e58a7fd4bd35:C3:Eye Detection
+  previous:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:d4f49e58f189bc2a85058e8030bdba5867549892594d4961911a877fc7774cc1
+  current:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Landscape · session 6a0b7ba9 · 2026-09-14T11:36:34+00:00.
+    verified_against: sha256:d4f49e58f189bc2a85058e8030bdba5867549892594d4961911a877fc7774cc1
+  evidence:
+    method: sdk_verified_read_only
+    journal: 6a0b7ba964b84f1bb3e1e58a7fd4bd35.json
+    profile: Landscape
+    path: autofocus.eye_detection
+    target: Disable
+    completed_at: '2026-09-14T11:36:34+00:00'
+- timestamp: '2026-09-14T07:37:14.752538-04:00'
+  event: camera_lab_evidence_import
+  id: 6a0b7ba964b84f1bb3e1e58a7fd4bd35:C3:Focus Bracketing
+  previous:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:faa653558ccc3ca42def02cffceb2449676221f3e2b701a95cb76c734a606a66
+  current:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Landscape · session 6a0b7ba9 · 2026-09-14T11:36:34+00:00.
+    verified_against: sha256:faa653558ccc3ca42def02cffceb2449676221f3e2b701a95cb76c734a606a66
+  evidence:
+    method: manual_user_confirmed_read_only
+    journal: 6a0b7ba964b84f1bb3e1e58a7fd4bd35.json
+    profile: Landscape
+    path: image.focus_bracketing
+    target: Disable
+    completed_at: '2026-09-14T11:36:34+00:00'
+- timestamp: '2026-09-14T07:37:14.752538-04:00'
+  event: camera_lab_evidence_import
+  id: 6a0b7ba964b84f1bb3e1e58a7fd4bd35:C3:IBIS
+  previous:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:f88432494f6ce6fd467acf866dcb7285209af0daa97f23211b4c2e9a2fca510a
+  current:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Landscape · session 6a0b7ba9 · 2026-09-14T11:36:34+00:00.
+    verified_against: sha256:f88432494f6ce6fd467acf866dcb7285209af0daa97f23211b4c2e9a2fca510a
+  evidence:
+    method: manual_user_confirmed_read_only
+    journal: 6a0b7ba964b84f1bb3e1e58a7fd4bd35.json
+    profile: Landscape
+    path: stabilization.ibis
+    target: 'On'
+    completed_at: '2026-09-14T11:36:34+00:00'
+- timestamp: '2026-09-14T07:37:14.752538-04:00'
+  event: camera_lab_evidence_import
+  id: 6a0b7ba964b84f1bb3e1e58a7fd4bd35:C3:ISO
+  previous:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:3c57560fdad255af8dddd4afe759bf3a638ced62cd0b435fbcb39f539ed4d5cd
+  current:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Landscape · session 6a0b7ba9 · 2026-09-14T11:36:34+00:00.
+    verified_against: sha256:3c57560fdad255af8dddd4afe759bf3a638ced62cd0b435fbcb39f539ed4d5cd
+  evidence:
+    method: sdk_verified_read_only
+    journal: 6a0b7ba964b84f1bb3e1e58a7fd4bd35.json
+    profile: Landscape
+    path: exposure.iso.mode
+    target: Fixed
+    completed_at: '2026-09-14T11:36:34+00:00'
+- timestamp: '2026-09-14T07:37:14.752538-04:00'
+  event: camera_lab_evidence_import
+  id: 6a0b7ba964b84f1bb3e1e58a7fd4bd35:C3:Lens IS switch
+  previous:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Physical lens switch confirmed On. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Physical lens switch confirmed On.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Physical lens switch confirmed On.
+    verified_against: sha256:77c1f08d541f8a95c354155213e1184f193765664d2faca4e6245806067b6735
+  current:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Physical lens switch confirmed On. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Physical lens switch confirmed On.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Physical lens switch confirmed On. Camera Lab manual_user_confirmed_read_only · Landscape · session 6a0b7ba9 · 2026-09-14T11:36:34+00:00.
+    verified_against: sha256:77c1f08d541f8a95c354155213e1184f193765664d2faca4e6245806067b6735
+  evidence:
+    method: manual_user_confirmed_read_only
+    journal: 6a0b7ba964b84f1bb3e1e58a7fd4bd35.json
+    profile: Landscape
+    path: stabilization.lens_is
+    target: 'On'
+    completed_at: '2026-09-14T11:36:34+00:00'
+- timestamp: '2026-09-14T07:37:14.752538-04:00'
+  event: camera_lab_evidence_import
+  id: 6a0b7ba964b84f1bb3e1e58a7fd4bd35:C3:Metering
+  previous:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:bc76af3dd5f76e718fe876deafcfbc0fd4a3f64d2a2eb64d2253751bd18f4eae
+  current:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Landscape · session 6a0b7ba9 · 2026-09-14T11:36:34+00:00.
+    verified_against: sha256:bc76af3dd5f76e718fe876deafcfbc0fd4a3f64d2a2eb64d2253751bd18f4eae
+  evidence:
+    method: sdk_verified_read_only
+    journal: 6a0b7ba964b84f1bb3e1e58a7fd4bd35.json
+    profile: Landscape
+    path: exposure.metering
+    target: Evaluative
+    completed_at: '2026-09-14T11:36:34+00:00'
+- timestamp: '2026-09-14T07:37:14.752538-04:00'
+  event: camera_lab_evidence_import
+  id: 6a0b7ba964b84f1bb3e1e58a7fd4bd35:C3:Mode
+  previous:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Wildlife confirmed in M. Camera Lab sdk_verified_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Birds in Flight confirmed in M.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Landscape confirmed in Av.
+    verified_against: sha256:16380d447ae550758ff49c344119374224a6b1c009504e23f6f4f93c11c00533
+  current:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Wildlife confirmed in M. Camera Lab sdk_verified_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Birds in Flight confirmed in M.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Landscape confirmed in Av. Camera Lab sdk_verified_read_only · Landscape · session 6a0b7ba9 · 2026-09-14T11:36:34+00:00.
+    verified_against: sha256:16380d447ae550758ff49c344119374224a6b1c009504e23f6f4f93c11c00533
+  evidence:
+    method: sdk_verified_read_only
+    journal: 6a0b7ba964b84f1bb3e1e58a7fd4bd35.json
+    profile: Landscape
+    path: exposure.mode
+    target: Av
+    completed_at: '2026-09-14T11:36:34+00:00'
+- timestamp: '2026-09-14T07:37:14.752538-04:00'
+  event: camera_lab_evidence_import
+  id: 6a0b7ba964b84f1bb3e1e58a7fd4bd35:C3:Servo AF Case
+  previous:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:c9f1ca7567fd410ce854474a770e020fea6e9904b6872801ebc1b2f20b392fbf
+  current:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Landscape · session 6a0b7ba9 · 2026-09-14T11:36:34+00:00.
+    verified_against: sha256:c9f1ca7567fd410ce854474a770e020fea6e9904b6872801ebc1b2f20b392fbf
+  evidence:
+    method: manual_user_confirmed_read_only
+    journal: 6a0b7ba964b84f1bb3e1e58a7fd4bd35.json
+    profile: Landscape
+    path: autofocus.servo_af_case
+    target: Case A (Auto)
+    completed_at: '2026-09-14T11:36:34+00:00'
+- timestamp: '2026-09-14T07:37:14.752538-04:00'
+  event: camera_lab_evidence_import
+  id: 6a0b7ba964b84f1bb3e1e58a7fd4bd35:C3:Shutter Speed
+  previous:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:50a59b23cd80339f63a7068a9f9b6618357bcc05eb6f986cc5c7a707e50c0a74
+  current:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Landscape · session 6a0b7ba9 · 2026-09-14T11:36:34+00:00.
+    verified_against: sha256:50a59b23cd80339f63a7068a9f9b6618357bcc05eb6f986cc5c7a707e50c0a74
+  evidence:
+    method: manual_user_confirmed_read_only
+    journal: 6a0b7ba964b84f1bb3e1e58a7fd4bd35.json
+    profile: Landscape
+    path: shutter.target
+    target: Auto
+    completed_at: '2026-09-14T11:36:34+00:00'
+- timestamp: '2026-09-14T07:37:14.752538-04:00'
+  event: camera_lab_evidence_import
+  id: 6a0b7ba964b84f1bb3e1e58a7fd4bd35:C3:Shutter Type
+  previous:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:e0eb3a601149113b744968c8d35c10e22707716e94c780644837edcabff082bb
+  current:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Landscape · session 6a0b7ba9 · 2026-09-14T11:36:34+00:00.
+    verified_against: sha256:e0eb3a601149113b744968c8d35c10e22707716e94c780644837edcabff082bb
+  evidence:
+    method: manual_user_confirmed_read_only
+    journal: 6a0b7ba964b84f1bb3e1e58a7fd4bd35.json
+    profile: Landscape
+    path: shutter.type
+    target: EFCS
+    completed_at: '2026-09-14T11:36:34+00:00'
+- timestamp: '2026-09-14T07:37:14.752538-04:00'
+  event: camera_lab_evidence_import
+  id: 6a0b7ba964b84f1bb3e1e58a7fd4bd35:C3:Subject Detection
+  previous:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:ca630f9c8761b1ba9bc261fc0264e1fdff6c6ebce7d3d60f68453c6e6c0fb66e
+  current:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Landscape · session 6a0b7ba9 · 2026-09-14T11:36:34+00:00.
+    verified_against: sha256:ca630f9c8761b1ba9bc261fc0264e1fdff6c6ebce7d3d60f68453c6e6c0fb66e
+  evidence:
+    method: manual_user_confirmed_read_only
+    journal: 6a0b7ba964b84f1bb3e1e58a7fd4bd35.json
+    profile: Landscape
+    path: autofocus.subject_detection
+    target: None
+    completed_at: '2026-09-14T11:36:34+00:00'
+- timestamp: '2026-09-14T07:37:14.752538-04:00'
+  event: camera_lab_evidence_import
+  id: 6a0b7ba964b84f1bb3e1e58a7fd4bd35:C3:Switching Tracked Subjects
+  previous:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:1866e2e49cd4159a2f76e301df8394efb14ebc00f49606d84fedb5501875eeb7
+  current:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Landscape · session 6a0b7ba9 · 2026-09-14T11:36:34+00:00.
+    verified_against: sha256:1866e2e49cd4159a2f76e301df8394efb14ebc00f49606d84fedb5501875eeb7
+  evidence:
+    method: manual_user_confirmed_read_only
+    journal: 6a0b7ba964b84f1bb3e1e58a7fd4bd35.json
+    profile: Landscape
+    path: autofocus.switching_tracked_subjects
+    target: On subject (1)
+    completed_at: '2026-09-14T11:36:34+00:00'
+- timestamp: '2026-09-14T07:37:14.752538-04:00'
+  event: camera_lab_evidence_import
+  id: 6a0b7ba964b84f1bb3e1e58a7fd4bd35:C3:Tracking Sensitivity
+  previous:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:dfe83819227cc879db8a3ff1c5b898a2d1c1b0f74d6b3364ad9a92ed7b018424
+  current:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Landscape · session 6a0b7ba9 · 2026-09-14T11:36:34+00:00.
+    verified_against: sha256:dfe83819227cc879db8a3ff1c5b898a2d1c1b0f74d6b3364ad9a92ed7b018424
+  evidence:
+    method: manual_user_confirmed_read_only
+    journal: 6a0b7ba964b84f1bb3e1e58a7fd4bd35.json
+    profile: Landscape
+    path: autofocus.tracking_sensitivity
+    target: Auto
+    completed_at: '2026-09-14T11:36:34+00:00'
