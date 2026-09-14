@@ -1,5 +1,5 @@
 version: 1
-updated: '2026-08-29T09:55:04.540856-04:00'
+updated: '2026-09-14T05:41:55.754555-04:00'
 tests:
   SETUP-01:
     status: Verified
@@ -217,7 +217,7 @@ registration:
   Mode:
     c1_configured: Pass
     c1_read_back: Pass
-    c1_notes: Wildlife confirmed in M.
+    c1_notes: Wildlife confirmed in M. Camera Lab sdk_verified_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
     c2_configured: Pass
     c2_read_back: Pass
     c2_notes: Birds in Flight confirmed in M.
@@ -228,7 +228,7 @@ registration:
   Metering:
     c1_configured: Pass
     c1_read_back: Pass
-    c1_notes: Confirmed in session 3.
+    c1_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
     c2_configured: Pass
     c2_read_back: Pass
     c2_notes: Confirmed in session 3.
@@ -239,7 +239,7 @@ registration:
   Exposure Compensation:
     c1_configured: Pass
     c1_read_back: Pass
-    c1_notes: Confirmed in session 3.
+    c1_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
     c2_configured: Pass
     c2_read_back: Pass
     c2_notes: Confirmed in session 3.
@@ -250,7 +250,7 @@ registration:
   Shutter Speed:
     c1_configured: Pass
     c1_read_back: Pass
-    c1_notes: Confirmed in session 3.
+    c1_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
     c2_configured: Pass
     c2_read_back: Pass
     c2_notes: Confirmed in session 3.
@@ -261,7 +261,7 @@ registration:
   Aperture:
     c1_configured: Pass
     c1_read_back: Pass
-    c1_notes: Confirmed in session 3.
+    c1_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
     c2_configured: Pass
     c2_read_back: Pass
     c2_notes: Confirmed in session 3.
@@ -272,7 +272,7 @@ registration:
   ISO:
     c1_configured: Pass
     c1_read_back: Pass
-    c1_notes: Confirmed in session 3.
+    c1_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
     c2_configured: Pass
     c2_read_back: Pass
     c2_notes: Confirmed in session 3.
@@ -283,7 +283,7 @@ registration:
   Auto ISO Maximum:
     c1_configured: Pass
     c1_read_back: Pass
-    c1_notes: Confirmed in session 3.
+    c1_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
     c2_configured: Pass
     c2_read_back: Pass
     c2_notes: Confirmed in session 3.
@@ -294,7 +294,7 @@ registration:
   AF Operation:
     c1_configured: Pass
     c1_read_back: Pass
-    c1_notes: Confirmed in session 3.
+    c1_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
     c2_configured: Pass
     c2_read_back: Pass
     c2_notes: Confirmed in session 3.
@@ -305,7 +305,7 @@ registration:
   Servo AF Case:
     c1_configured: Pass
     c1_read_back: Pass
-    c1_notes: Confirmed in session 3.
+    c1_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
     c2_configured: Pass
     c2_read_back: Pass
     c2_notes: Confirmed in session 3.
@@ -316,7 +316,7 @@ registration:
   Tracking Sensitivity:
     c1_configured: Pass
     c1_read_back: Pass
-    c1_notes: Confirmed in session 3.
+    c1_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
     c2_configured: Pass
     c2_read_back: Pass
     c2_notes: Confirmed in session 3.
@@ -327,7 +327,7 @@ registration:
   Accel./Decel. Tracking:
     c1_configured: Pass
     c1_read_back: Pass
-    c1_notes: Confirmed in session 3.
+    c1_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
     c2_configured: Pass
     c2_read_back: Pass
     c2_notes: Confirmed in session 3.
@@ -338,7 +338,7 @@ registration:
   Switching Tracked Subjects:
     c1_configured: Pass
     c1_read_back: Pass
-    c1_notes: Confirmed in session 3.
+    c1_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
     c2_configured: Pass
     c2_read_back: Pass
     c2_notes: Confirmed in session 3.
@@ -349,7 +349,7 @@ registration:
   AF Method:
     c1_configured: Pass
     c1_read_back: Pass
-    c1_notes: Confirmed in session 3.
+    c1_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
     c2_configured: Pass
     c2_read_back: Pass
     c2_notes: Confirmed in session 3.
@@ -360,7 +360,7 @@ registration:
   Subject Detection:
     c1_configured: Pass
     c1_read_back: Pass
-    c1_notes: Confirmed in session 3.
+    c1_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
     c2_configured: Pass
     c2_read_back: Pass
     c2_notes: Confirmed in session 3.
@@ -371,7 +371,7 @@ registration:
   Eye Detection:
     c1_configured: Pass
     c1_read_back: Pass
-    c1_notes: Confirmed in session 3.
+    c1_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
     c2_configured: Pass
     c2_read_back: Pass
     c2_notes: Confirmed in session 3.
@@ -382,7 +382,7 @@ registration:
   Drive Mode:
     c1_configured: Pass
     c1_read_back: Pass
-    c1_notes: Confirmed in session 3.
+    c1_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
     c2_configured: Pass
     c2_read_back: Pass
     c2_notes: Confirmed in session 3.
@@ -393,7 +393,7 @@ registration:
   High Speed Display:
     c1_configured: Pass
     c1_read_back: Pass
-    c1_notes: Confirmed in session 3.
+    c1_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
     c2_configured: Pass
     c2_read_back: Pass
     c2_notes: Confirmed in session 3.
@@ -404,7 +404,7 @@ registration:
   Shutter Type:
     c1_configured: Pass
     c1_read_back: Pass
-    c1_notes: Confirmed in session 3.
+    c1_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
     c2_configured: Pass
     c2_read_back: Pass
     c2_notes: Confirmed in session 3.
@@ -425,7 +425,7 @@ registration:
   IBIS:
     c1_configured: Pass
     c1_read_back: Pass
-    c1_notes: Confirmed in session 3.
+    c1_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
     c2_configured: Pass
     c2_read_back: Pass
     c2_notes: Confirmed in session 3.
@@ -436,7 +436,7 @@ registration:
   Focus Bracketing:
     c1_configured: Pass
     c1_read_back: Pass
-    c1_notes: Confirmed in session 3.
+    c1_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
     c2_configured: Pass
     c2_read_back: Pass
     c2_notes: Confirmed in session 3.
@@ -447,7 +447,8 @@ registration:
   Lens IS switch:
     c1_configured: Pass
     c1_read_back: Pass
-    c1_notes: Physical lens switch confirmed On.
+    c1_notes: Physical lens switch confirmed On. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b
+      · 2026-09-13T22:40:59+00:00.
     c2_configured: Pass
     c2_read_back: Pass
     c2_notes: Physical lens switch confirmed On.
@@ -1734,3 +1735,678 @@ history:
     c3_configured: Needs retest
     c3_read_back: Needs retest
     c3_notes: Target Mode 1; attached lens exposed only IS On/Off.
+- timestamp: '2026-09-13T19:05:25.775010-04:00'
+  event: camera_lab_evidence_import
+  id: c45f2e8b924b43c792afcf57fb4eacad:C1:AF Method
+  previous:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Birds in Flight · session 2d78a696 · 2026-09-13T22:42:50+00:00.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:ac30ce5e48a2e9e69db02806afb6a8c836dd8220dce399b57ed50b6ec3569d82
+  current:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Birds in Flight · session 2d78a696 · 2026-09-13T22:42:50+00:00.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:ac30ce5e48a2e9e69db02806afb6a8c836dd8220dce399b57ed50b6ec3569d82
+  evidence:
+    method: sdk_verified_read_only
+    journal: c45f2e8b924b43c792afcf57fb4eacad.json
+    profile: Wildlife
+    path: autofocus.method
+    target: Face + Tracking
+    completed_at: '2026-09-13T22:40:59+00:00'
+- timestamp: '2026-09-13T19:05:25.775010-04:00'
+  event: camera_lab_evidence_import
+  id: c45f2e8b924b43c792afcf57fb4eacad:C1:AF Operation
+  previous:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Birds in Flight · session 2d78a696 · 2026-09-13T22:42:50+00:00.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:e52a8877636b9e990324e5e59a10b6b8a0723c7699f752ac41a4e39a25ed8c94
+  current:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Birds in Flight · session 2d78a696 · 2026-09-13T22:42:50+00:00.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:e52a8877636b9e990324e5e59a10b6b8a0723c7699f752ac41a4e39a25ed8c94
+  evidence:
+    method: sdk_verified_read_only
+    journal: c45f2e8b924b43c792afcf57fb4eacad.json
+    profile: Wildlife
+    path: autofocus.operation
+    target: Servo AF
+    completed_at: '2026-09-13T22:40:59+00:00'
+- timestamp: '2026-09-13T19:05:25.775010-04:00'
+  event: camera_lab_evidence_import
+  id: c45f2e8b924b43c792afcf57fb4eacad:C1:Accel./Decel. Tracking
+  previous:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Birds in Flight · session 2d78a696 · 2026-09-13T22:42:50+00:00.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:e11fda77b702b46abfbda7bbf4de92c162668fd479106b46da999dcd11ba28cf
+  current:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Birds in Flight · session 2d78a696 · 2026-09-13T22:42:50+00:00.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:e11fda77b702b46abfbda7bbf4de92c162668fd479106b46da999dcd11ba28cf
+  evidence:
+    method: manual_user_confirmed_read_only
+    journal: c45f2e8b924b43c792afcf57fb4eacad.json
+    profile: Wildlife
+    path: autofocus.accel_decel_tracking
+    target: '+1'
+    completed_at: '2026-09-13T22:40:59+00:00'
+- timestamp: '2026-09-13T19:05:25.775010-04:00'
+  event: camera_lab_evidence_import
+  id: c45f2e8b924b43c792afcf57fb4eacad:C1:Aperture
+  previous:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Birds in Flight · session 2d78a696 · 2026-09-13T22:42:50+00:00.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:74b8c602aefe9109b324a5d3d0f5af54cafeaceae6f80e96effd7b7e7b7512a0
+  current:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Birds in Flight · session 2d78a696 · 2026-09-13T22:42:50+00:00.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:74b8c602aefe9109b324a5d3d0f5af54cafeaceae6f80e96effd7b7e7b7512a0
+  evidence:
+    method: sdk_verified_read_only
+    journal: c45f2e8b924b43c792afcf57fb4eacad.json
+    profile: Wildlife
+    path: lens.aperture.target
+    target: Auto
+    completed_at: '2026-09-13T22:40:59+00:00'
+- timestamp: '2026-09-13T19:05:25.775010-04:00'
+  event: camera_lab_evidence_import
+  id: c45f2e8b924b43c792afcf57fb4eacad:C1:Auto ISO Maximum
+  previous:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Birds in Flight · session 2d78a696 · 2026-09-13T22:42:50+00:00.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:215087f96f2c5d379e4931bbcffe7ea4f1ebe59cc0229f5dae23f52e08edbba5
+  current:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Birds in Flight · session 2d78a696 · 2026-09-13T22:42:50+00:00.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:215087f96f2c5d379e4931bbcffe7ea4f1ebe59cc0229f5dae23f52e08edbba5
+  evidence:
+    method: manual_user_confirmed_read_only
+    journal: c45f2e8b924b43c792afcf57fb4eacad.json
+    profile: Wildlife
+    path: exposure.auto_iso.maximum
+    target: '12800'
+    completed_at: '2026-09-13T22:40:59+00:00'
+- timestamp: '2026-09-13T19:05:25.775010-04:00'
+  event: camera_lab_evidence_import
+  id: c45f2e8b924b43c792afcf57fb4eacad:C1:Drive Mode
+  previous:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Birds in Flight · session 2d78a696 · 2026-09-13T22:42:50+00:00.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:a407ab25d86c6b32e4618dffadce1bc9f7375731cceb32a9b15154cb636bbc93
+  current:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Birds in Flight · session 2d78a696 · 2026-09-13T22:42:50+00:00.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:a407ab25d86c6b32e4618dffadce1bc9f7375731cceb32a9b15154cb636bbc93
+  evidence:
+    method: sdk_verified_read_only
+    journal: c45f2e8b924b43c792afcf57fb4eacad.json
+    profile: Wildlife
+    path: drive.mode
+    target: High Speed Continuous
+    completed_at: '2026-09-13T22:40:59+00:00'
+- timestamp: '2026-09-13T19:05:25.775010-04:00'
+  event: camera_lab_evidence_import
+  id: c45f2e8b924b43c792afcf57fb4eacad:C1:Exposure Compensation
+  previous:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Birds in Flight · session 2d78a696 · 2026-09-13T22:42:50+00:00.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:88e1331bb1792dc8c402253666af51d91b4ff14bdf848d8f5715f7c5735374ee
+  current:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Birds in Flight · session 2d78a696 · 2026-09-13T22:42:50+00:00.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:88e1331bb1792dc8c402253666af51d91b4ff14bdf848d8f5715f7c5735374ee
+  evidence:
+    method: sdk_verified_read_only
+    journal: c45f2e8b924b43c792afcf57fb4eacad.json
+    profile: Wildlife
+    path: exposure.exposure_compensation
+    target: '0'
+    completed_at: '2026-09-13T22:40:59+00:00'
+- timestamp: '2026-09-13T19:05:25.775010-04:00'
+  event: camera_lab_evidence_import
+  id: c45f2e8b924b43c792afcf57fb4eacad:C1:Eye Detection
+  previous:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Birds in Flight · session 2d78a696 · 2026-09-13T22:42:50+00:00.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:d4f49e58f189bc2a85058e8030bdba5867549892594d4961911a877fc7774cc1
+  current:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Birds in Flight · session 2d78a696 · 2026-09-13T22:42:50+00:00.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:d4f49e58f189bc2a85058e8030bdba5867549892594d4961911a877fc7774cc1
+  evidence:
+    method: sdk_verified_read_only
+    journal: c45f2e8b924b43c792afcf57fb4eacad.json
+    profile: Wildlife
+    path: autofocus.eye_detection
+    target: Enable
+    completed_at: '2026-09-13T22:40:59+00:00'
+- timestamp: '2026-09-13T19:05:25.775010-04:00'
+  event: camera_lab_evidence_import
+  id: c45f2e8b924b43c792afcf57fb4eacad:C1:Focus Bracketing
+  previous:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Birds in Flight · session 2d78a696 · 2026-09-13T22:42:50+00:00.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:faa653558ccc3ca42def02cffceb2449676221f3e2b701a95cb76c734a606a66
+  current:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Birds in Flight · session 2d78a696 · 2026-09-13T22:42:50+00:00.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:faa653558ccc3ca42def02cffceb2449676221f3e2b701a95cb76c734a606a66
+  evidence:
+    method: manual_user_confirmed_read_only
+    journal: c45f2e8b924b43c792afcf57fb4eacad.json
+    profile: Wildlife
+    path: image.focus_bracketing
+    target: Disable
+    completed_at: '2026-09-13T22:40:59+00:00'
+- timestamp: '2026-09-13T19:05:25.775010-04:00'
+  event: camera_lab_evidence_import
+  id: c45f2e8b924b43c792afcf57fb4eacad:C1:High Speed Display
+  previous:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:0af962b70870008b8b495ab863d5b9773e68daa4e052c10a5157bbb6e9b09a04
+  current:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:0af962b70870008b8b495ab863d5b9773e68daa4e052c10a5157bbb6e9b09a04
+  evidence:
+    method: manual_user_confirmed_read_only
+    journal: c45f2e8b924b43c792afcf57fb4eacad.json
+    profile: Wildlife
+    path: display.high_speed_display
+    target: Enable
+    completed_at: '2026-09-13T22:40:59+00:00'
+- timestamp: '2026-09-13T19:05:25.775010-04:00'
+  event: camera_lab_evidence_import
+  id: c45f2e8b924b43c792afcf57fb4eacad:C1:IBIS
+  previous:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Birds in Flight · session 2d78a696 · 2026-09-13T22:42:50+00:00.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:f88432494f6ce6fd467acf866dcb7285209af0daa97f23211b4c2e9a2fca510a
+  current:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Birds in Flight · session 2d78a696 · 2026-09-13T22:42:50+00:00.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:f88432494f6ce6fd467acf866dcb7285209af0daa97f23211b4c2e9a2fca510a
+  evidence:
+    method: manual_user_confirmed_read_only
+    journal: c45f2e8b924b43c792afcf57fb4eacad.json
+    profile: Wildlife
+    path: stabilization.ibis
+    target: 'On'
+    completed_at: '2026-09-13T22:40:59+00:00'
+- timestamp: '2026-09-13T19:05:25.775010-04:00'
+  event: camera_lab_evidence_import
+  id: c45f2e8b924b43c792afcf57fb4eacad:C1:ISO
+  previous:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Birds in Flight · session 2d78a696 · 2026-09-13T22:42:50+00:00.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:3c57560fdad255af8dddd4afe759bf3a638ced62cd0b435fbcb39f539ed4d5cd
+  current:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Birds in Flight · session 2d78a696 · 2026-09-13T22:42:50+00:00.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:3c57560fdad255af8dddd4afe759bf3a638ced62cd0b435fbcb39f539ed4d5cd
+  evidence:
+    method: sdk_verified_read_only
+    journal: c45f2e8b924b43c792afcf57fb4eacad.json
+    profile: Wildlife
+    path: exposure.iso.mode
+    target: Auto
+    completed_at: '2026-09-13T22:40:59+00:00'
+- timestamp: '2026-09-13T19:05:25.775010-04:00'
+  event: camera_lab_evidence_import
+  id: c45f2e8b924b43c792afcf57fb4eacad:C1:Lens IS switch
+  previous:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Physical lens switch confirmed On.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Physical lens switch confirmed On. Camera Lab manual_user_confirmed_read_only · Birds in Flight · session 2d78a696
+      · 2026-09-13T22:42:50+00:00.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Physical lens switch confirmed On.
+    verified_against: sha256:77c1f08d541f8a95c354155213e1184f193765664d2faca4e6245806067b6735
+  current:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Physical lens switch confirmed On. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b
+      · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Physical lens switch confirmed On. Camera Lab manual_user_confirmed_read_only · Birds in Flight · session 2d78a696
+      · 2026-09-13T22:42:50+00:00.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Physical lens switch confirmed On.
+    verified_against: sha256:77c1f08d541f8a95c354155213e1184f193765664d2faca4e6245806067b6735
+  evidence:
+    method: manual_user_confirmed_read_only
+    journal: c45f2e8b924b43c792afcf57fb4eacad.json
+    profile: Wildlife
+    path: stabilization.lens_is
+    target: 'On'
+    completed_at: '2026-09-13T22:40:59+00:00'
+- timestamp: '2026-09-13T19:05:25.775010-04:00'
+  event: camera_lab_evidence_import
+  id: c45f2e8b924b43c792afcf57fb4eacad:C1:Metering
+  previous:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Birds in Flight · session 2d78a696 · 2026-09-13T22:42:50+00:00.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:bc76af3dd5f76e718fe876deafcfbc0fd4a3f64d2a2eb64d2253751bd18f4eae
+  current:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Birds in Flight · session 2d78a696 · 2026-09-13T22:42:50+00:00.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:bc76af3dd5f76e718fe876deafcfbc0fd4a3f64d2a2eb64d2253751bd18f4eae
+  evidence:
+    method: sdk_verified_read_only
+    journal: c45f2e8b924b43c792afcf57fb4eacad.json
+    profile: Wildlife
+    path: exposure.metering
+    target: Evaluative
+    completed_at: '2026-09-13T22:40:59+00:00'
+- timestamp: '2026-09-13T19:05:25.775010-04:00'
+  event: camera_lab_evidence_import
+  id: c45f2e8b924b43c792afcf57fb4eacad:C1:Mode
+  previous:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Wildlife confirmed in M.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Birds in Flight confirmed in M. Camera Lab sdk_verified_read_only · Birds in Flight · session 2d78a696 · 2026-09-13T22:42:50+00:00.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Landscape confirmed in Av.
+    verified_against: sha256:16380d447ae550758ff49c344119374224a6b1c009504e23f6f4f93c11c00533
+  current:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Wildlife confirmed in M. Camera Lab sdk_verified_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Birds in Flight confirmed in M. Camera Lab sdk_verified_read_only · Birds in Flight · session 2d78a696 · 2026-09-13T22:42:50+00:00.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Landscape confirmed in Av.
+    verified_against: sha256:16380d447ae550758ff49c344119374224a6b1c009504e23f6f4f93c11c00533
+  evidence:
+    method: sdk_verified_read_only
+    journal: c45f2e8b924b43c792afcf57fb4eacad.json
+    profile: Wildlife
+    path: exposure.mode
+    target: Fv
+    completed_at: '2026-09-13T22:40:59+00:00'
+- timestamp: '2026-09-13T19:05:25.775010-04:00'
+  event: camera_lab_evidence_import
+  id: c45f2e8b924b43c792afcf57fb4eacad:C1:Servo AF Case
+  previous:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Birds in Flight · session 2d78a696 · 2026-09-13T22:42:50+00:00.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:c9f1ca7567fd410ce854474a770e020fea6e9904b6872801ebc1b2f20b392fbf
+  current:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Birds in Flight · session 2d78a696 · 2026-09-13T22:42:50+00:00.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:c9f1ca7567fd410ce854474a770e020fea6e9904b6872801ebc1b2f20b392fbf
+  evidence:
+    method: manual_user_confirmed_read_only
+    journal: c45f2e8b924b43c792afcf57fb4eacad.json
+    profile: Wildlife
+    path: autofocus.servo_af_case
+    target: Case 1 (Custom)
+    completed_at: '2026-09-13T22:40:59+00:00'
+- timestamp: '2026-09-13T19:05:25.775010-04:00'
+  event: camera_lab_evidence_import
+  id: c45f2e8b924b43c792afcf57fb4eacad:C1:Shutter Speed
+  previous:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:50a59b23cd80339f63a7068a9f9b6618357bcc05eb6f986cc5c7a707e50c0a74
+  current:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab sdk_verified_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:50a59b23cd80339f63a7068a9f9b6618357bcc05eb6f986cc5c7a707e50c0a74
+  evidence:
+    method: sdk_verified_read_only
+    journal: c45f2e8b924b43c792afcf57fb4eacad.json
+    profile: Wildlife
+    path: shutter.target
+    target: Auto
+    completed_at: '2026-09-13T22:40:59+00:00'
+- timestamp: '2026-09-13T19:06:04.639517-04:00'
+  event: camera_lab_evidence_import
+  id: c45f2e8b924b43c792afcf57fb4eacad:C1:Shutter Type
+  previous:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Birds in Flight · session 2d78a696 · 2026-09-13T22:42:50+00:00.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:e0eb3a601149113b744968c8d35c10e22707716e94c780644837edcabff082bb
+  current:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Birds in Flight · session 2d78a696 · 2026-09-13T22:42:50+00:00.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:e0eb3a601149113b744968c8d35c10e22707716e94c780644837edcabff082bb
+  evidence:
+    method: manual_user_confirmed_read_only
+    journal: c45f2e8b924b43c792afcf57fb4eacad.json
+    profile: Wildlife
+    path: shutter.type
+    target: EFCS
+    completed_at: '2026-09-13T22:40:59+00:00'
+- timestamp: '2026-09-13T19:06:04.639517-04:00'
+  event: camera_lab_evidence_import
+  id: c45f2e8b924b43c792afcf57fb4eacad:C1:Subject Detection
+  previous:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Birds in Flight · session 2d78a696 · 2026-09-13T22:42:50+00:00.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:ca630f9c8761b1ba9bc261fc0264e1fdff6c6ebce7d3d60f68453c6e6c0fb66e
+  current:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Birds in Flight · session 2d78a696 · 2026-09-13T22:42:50+00:00.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:ca630f9c8761b1ba9bc261fc0264e1fdff6c6ebce7d3d60f68453c6e6c0fb66e
+  evidence:
+    method: manual_user_confirmed_read_only
+    journal: c45f2e8b924b43c792afcf57fb4eacad.json
+    profile: Wildlife
+    path: autofocus.subject_detection
+    target: Animals
+    completed_at: '2026-09-13T22:40:59+00:00'
+- timestamp: '2026-09-13T19:06:04.639517-04:00'
+  event: camera_lab_evidence_import
+  id: c45f2e8b924b43c792afcf57fb4eacad:C1:Switching Tracked Subjects
+  previous:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Birds in Flight · session 2d78a696 · 2026-09-13T22:42:50+00:00.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:1866e2e49cd4159a2f76e301df8394efb14ebc00f49606d84fedb5501875eeb7
+  current:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Birds in Flight · session 2d78a696 · 2026-09-13T22:42:50+00:00.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:1866e2e49cd4159a2f76e301df8394efb14ebc00f49606d84fedb5501875eeb7
+  evidence:
+    method: manual_user_confirmed_read_only
+    journal: c45f2e8b924b43c792afcf57fb4eacad.json
+    profile: Wildlife
+    path: autofocus.switching_tracked_subjects
+    target: On subject (1)
+    completed_at: '2026-09-13T22:40:59+00:00'
+- timestamp: '2026-09-13T19:06:04.639517-04:00'
+  event: camera_lab_evidence_import
+  id: c45f2e8b924b43c792afcf57fb4eacad:C1:Tracking Sensitivity
+  previous:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Birds in Flight · session 2d78a696 · 2026-09-13T22:42:50+00:00.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:dfe83819227cc879db8a3ff1c5b898a2d1c1b0f74d6b3364ad9a92ed7b018424
+  current:
+    c1_configured: Pass
+    c1_read_back: Pass
+    c1_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Wildlife · session c45f2e8b · 2026-09-13T22:40:59+00:00.
+    c2_configured: Pass
+    c2_read_back: Pass
+    c2_notes: Confirmed in session 3. Camera Lab manual_user_confirmed_read_only · Birds in Flight · session 2d78a696 · 2026-09-13T22:42:50+00:00.
+    c3_configured: Pass
+    c3_read_back: Pass
+    c3_notes: Confirmed in session 3.
+    verified_against: sha256:dfe83819227cc879db8a3ff1c5b898a2d1c1b0f74d6b3364ad9a92ed7b018424
+  evidence:
+    method: manual_user_confirmed_read_only
+    journal: c45f2e8b924b43c792afcf57fb4eacad.json
+    profile: Wildlife
+    path: autofocus.tracking_sensitivity
+    target: '-1'
+    completed_at: '2026-09-13T22:40:59+00:00'
