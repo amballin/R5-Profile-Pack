@@ -25,13 +25,13 @@ publication:
     schema_version: 1
     current:
       major: 1
-      minor: 3
-      published_at: '2026-09-14T19:14:11.959734Z'
-      source_commit: 535b61d36bd5fc44d46630c28fa6b86058b040ba
-      content_digest: e8aa2d35bf235a19c389a0891f949fef09de45dc290880107fb9b3629057baa9
+      minor: 4
+      published_at: '2026-09-15T18:22:02.533428Z'
+      source_commit: b1719c15ddb8c45543e3a5ee9c5be55af0812a94
+      content_digest: 3e1d2880cfbb755ffb133c2a572fb3720cc544de8c7e899bbd9dddcc3ce09697
       renderer:
-        application_version: 1.14.0
-        application_commit: cc1260b9410bff98b5b9879ae3146d334c8bdd75
+        application_version: 1.19.0
+        application_commit: 95a5b23d5c09b326464a382b9150f1be44bddfed
       released_card_ids:
       - 24499188-e352-5bc4-b51b-2c54b50da333
       - 24553406-f5c7-535b-9822-706b50a87dce
