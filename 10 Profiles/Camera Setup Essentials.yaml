@@ -12,10 +12,6 @@ card:
   icons:
     left: camera_default
   field_setup:
-    my_menus:
-    - name: SWITCH
-      settings:
-      - shutter.type
     start: C1
     source_card_id: 3f9e95b6-7c08-5ca0-89a7-ad3f878bbc42
 inherits: baseline
